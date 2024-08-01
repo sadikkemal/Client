@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "formdataencoder",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sadikkemal/FormDataEncoder.git",
+      "state" : {
+        "revision" : "5638aa75462311a26f32e8caee609c134f5325b5",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
